@@ -37,7 +37,6 @@
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.7.0",
-    "netlify-cli": "^12.2.7",
     "node-sass": "^8.0.0",
     "sass-loader": "^13.2.0",
     "source-map-loader": "^4.0.1",
